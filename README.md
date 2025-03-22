@@ -12,6 +12,6 @@ Este é um projeto simples em C que calcula a média das notas de um aluno e det
  
 ## Requisitos
 
-UM COMPILADOR C (como o GCC ou o DevC++) INSTALADO NO SEU SISTEMA!
+UM COMPILADOR OU UMA IDE C (como o GCC ou o DevC++) INSTALADO NO SEU SISTEMA!
 
 
